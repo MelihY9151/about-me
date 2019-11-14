@@ -2,15 +2,15 @@
 
 My name is **Melih Yumusak**.
 
-I was born in the year 2003.
+I was born in the year 2003 . 
 
 ## Important Info   
 
-I attened high school at hstat. 
+I attened high school at hstat . 
 
-My email is MelihY9151@hstat.org
+My email is MelihY9151@hstat.org . 
 
-I go to school from 7:45-2:20 
+I go to school from 7:45-2:20 . 
 
 **Class Schedule** 
 
@@ -21,5 +21,10 @@ I go to school from 7:45-2:20
 5. Pre-calc 
 6. ELA
 7. AP Chem 
-8. AP Chem 
+8. _AP Chem_ (olny on **Wensdays** and **Thursdays**)
+
+### Favroite Subjects
+ * Gym
+ * SEP
+ * AP US
 
