@@ -1,3 +1,5 @@
+#**About  Me**
+
 My name is **Melih Yumusak**.
 
 I was born in the year 2003.
@@ -10,7 +12,7 @@ My email is MelihY9151@hstat.org
 
 I go to school from 7:45-2:20 
 
-**CLass Sqedual** 
+**Class Schedule** 
 
 1) Spanish
 2) SEP
@@ -20,3 +22,4 @@ I go to school from 7:45-2:20
 6) ELA
 7) AP Chem 
 8) AP Chem 
+
