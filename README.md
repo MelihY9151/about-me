@@ -12,6 +12,8 @@ My email is MelihY9151@hstat.org .
 
 I go to school from 7:45-2:20 . 
 
+[Check out my github](https://melihy9151.github.io/)
+
 **Class Schedule** 
 
 1. Spanish
