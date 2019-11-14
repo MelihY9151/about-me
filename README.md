@@ -29,4 +29,12 @@ I go to school from 7:45-2:20 .
  * Gym
  * SEP
  * AP US
+   *I love history . 
+   *We must learn from our past mistakes. 
+
+### Other Likes 
+*Colors 
+    1.Black
+    2.Blue
+    3.Yellow 
 
