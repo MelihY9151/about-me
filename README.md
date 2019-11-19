@@ -24,14 +24,14 @@ I go to school from 7:45-2:20 .
 6. ELA
 7. AP Chem 
 8. _AP Chem_ (olny on **Wensdays** and **Thursdays**)
-
+---
 ### Favroite Subjects
  * Gym
  * SEP
  * AP US
    * I love history.
    * We must learn from our past mistakes. 
-
+---
 ### Other Likes 
 * Colors 
     1. Black
@@ -40,3 +40,5 @@ I go to school from 7:45-2:20 .
 * Cars
     1. Hummer 
     2. Hellcat 
+Play games, Study for tests. 
+---
