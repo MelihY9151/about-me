@@ -40,5 +40,5 @@ I go to school from 7:45-2:20 .
 * Cars
     1. Hummer 
     2. Hellcat 
-Play games, Study for tests. 
+
 ---
